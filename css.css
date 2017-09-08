@@ -1,9 +1,8 @@
 body{
     font-family:Caveat;
     margin: 0px;
-    width: 1349px;
     align-self: center;
-    
+
 }
 .head{
     text-align: center;
@@ -11,7 +10,7 @@ body{
     background-color: white;
     color: red;
     padding-top: 10px;
-    
+
 }
 .head span{
     margin: 20px;
@@ -35,7 +34,7 @@ body{
     text-align: center;
     color: white;
     cursor: pointer
-    
+
 }
 .img img{
     position: absolute;
@@ -52,7 +51,7 @@ body{
     left: 600px;
     font-size:50px;
     font-weight: 500;
-    
+
     font-family:Caveat
 }
 .img span{
@@ -62,7 +61,7 @@ body{
     color: white;
     font-size: 30px;
     font-style: oblique;
-    
+
 }
 .img p{
     position: absolute;
@@ -84,7 +83,7 @@ body{
 }
 .left {
     position: absolute;
-    
+
 }
 .left h1{
     font-size: 50px
@@ -98,7 +97,7 @@ body{
 .left span{
     font-weight: 600;
     font-size: 30px;
-    
+
 }
 .right{
     position: absolute;
@@ -106,7 +105,7 @@ body{
     left: 600px;
     font-size: 15px;
     font-family: cursive;
-    
+
 }
 .right b{
     color: red;
@@ -154,7 +153,7 @@ body{
     color: #646b7d;
     font-size: 50px;
     top:50px
-    
+
 }
 a{
     margin: 20px;
@@ -177,5 +176,5 @@ a{
     width: 150px;
     height: 150px;
     border-radius: 75px;
-    
+
 }
