@@ -1,0 +1,181 @@
+body{
+    font-family:Caveat;
+    margin: 0px;
+    width: 1349px;
+    align-self: center;
+    
+}
+.head{
+    text-align: center;
+    height: 30px;
+    background-color: white;
+    color: red;
+    padding-top: 10px;
+    
+}
+.head span{
+    margin: 20px;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer
+}
+.head2{
+    background-color: #2b2d42;
+    height: 400px;
+    position: relative
+}
+.note{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: #f52235;
+    width: 100px;
+    height: 20px;
+    padding:10px;
+    text-align: center;
+    color: white;
+    cursor: pointer
+    
+}
+.img img{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    border-radius: 125px;
+    top: 100px;
+    left: 200px
+}
+.img legend{
+    position: absolute;
+    color: white;
+    top: 100px;
+    left: 600px;
+    font-size:50px;
+    font-weight: 500;
+    
+    font-family:Caveat
+}
+.img span{
+    position: absolute;
+    top:180px;
+    left:600px;
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    
+}
+.img p{
+    position: absolute;
+    top:220px;
+    left:600px;
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Caveat
+}
+.head3{
+    height: 1000px;
+    background-color: #edf2f5;
+    font-family: Caveat;
+    position: relative;
+    padding: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+.left {
+    position: absolute;
+    
+}
+.left h1{
+    font-size: 50px
+}
+.left p{
+    font-size: 20px;
+    margin: 20px;
+    margin-bottom: 100px;
+    margin-top: 100px
+}
+.left span{
+    font-weight: 600;
+    font-size: 30px;
+    
+}
+.right{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+.right b{
+    color: red;
+    cursor: pointer
+}
+.right li{
+    margin-left: -15px
+}
+.head4{
+    background-image: url(DfxFnLL.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 50px;
+    background-position: center;
+    background-size: cover;
+    color:lavenderblush;
+    opacity: 30%;
+    position: relative;
+    padding-left: 70px;
+    background-blend-mode: lighten;
+}
+.head4 h1{
+    font-size: 50px;
+    font-weight: 600
+}
+.head4 p{
+     font-size: 20px;
+    font-family: sans-serif
+}
+.head4 span{
+    font-weight: 600;
+    font-size: 30px;
+    font-family: caveat
+}
+.head5{
+    background-color: #2b2d42;
+    height: 300px;
+    text-align: center;
+    font-family: caveat;
+    padding: 50px
+
+}
+.head5 span{
+    color: #646b7d;
+    font-size: 50px;
+    top:50px
+    
+}
+a{
+    margin: 20px;
+    color: red;
+    font-size: 20px;
+    cursor: pointer
+}
+.head5 ul{
+    display: inline-flex;
+    list-style: none;
+}
+.head5 p{
+     color: #646b7d;
+    font-size: 20px
+}
+.head6 img{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    
+}
